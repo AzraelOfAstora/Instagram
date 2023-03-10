@@ -86,7 +86,7 @@ body {
 .storie-img {
   width: 66px;
   height: 66px;
-  background-image: url("/img/stories_background.jpg");
+  background-image: url("./img/stories_background.jpg");
   background-position: center;
   background-size: 66px 66px;
   background-repeat: no-repeat;
